@@ -71,17 +71,13 @@ Com o Node e o Expo instalados em sua máquina e um emulador ou o Expo Go no dis
 
 Cadastre o aplicativo no Discord para conseguir acesso ao serviço de autenticação, colocando o redirect como https://auth.expo.io/@<seu usuário no expo>/gameplay e marcando, na aba "OAuth2", as 4 primeiras opções para o escopo, definindo essas configurações também em um arquivo .env no projeto (siga o exemplo do arquivo ".env.example", retirando o '.exemple' depois).
 
-`
+```
 REDIRECT_URI=
-
 SCOPE=
-
 RESPONSE_TYPE=
-
 CLIENT_ID=
-
 CDN_IMAGE=
-`
+```
 <br />
 
 ## :memo: License
