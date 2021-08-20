@@ -36,7 +36,7 @@ and challenges for us devs to get to the next level) and developed by me, hope y
 - Context API's
 - React hooks
 - Discord API
-- Variáveis ambiente
+- Environment variables
 
 <br />
 
