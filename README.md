@@ -15,20 +15,20 @@
 <br />
 <br />
 
-## :bookmark: Resumo
+## :bookmark: Resume
 <br />
 
-Já ocorreu de você querer jogar juntamente com os seus amigos para se divertir, mas nunca conseguiam agendar um horário fixo?
+Have you ever wanted to play together with your friends for fun, but were never able to schedule a fixed time?
 
-O GamePlay foi criado justamente para solucionar essa problemática! O GamePlay agenda jogatinas com seus amigos e com a integração da API do 
-Discord, o que facilita ainda mais esse processo.
+GamePlay was created precisely to solve this problem! GamePlay schedules games with your friends and with its API integration.
+Discord, which makes this process even easier.
 
-Espero que goste do projeto, o projeto foi construido pela Rocketseat na NLW-Together (um evento que consiste em uma semana de muitos códigos
-e desafios para nós devs chegarmos ao próximo nível) e desenvolvido por mim, espero que gostem do projeto!
+Hope you like the project, the project was built by Rocketseat at NLW-Together (an event consisting of a week of lots of code
+and challenges for us devs to get to the next level) and developed by me, hope you like the project!
 
 <br />
 
-## :bulb: Conteúdos abordados
+## :bulb: Contents covered
 <br />
 
 - React Native
@@ -40,11 +40,11 @@ e desafios para nós devs chegarmos ao próximo nível) e desenvolvido por mim, 
 
 <br />
 
-## :eyes: Interface do projeto
+## :eyes: Project interface
 <br />
 
-O protótipo do projeto foi construído na plataforma FIGMA e por [@TiagoLuchtenberg](https://www.instagram.com/tiagoluchtenberg/) e ficou lindo! 
-seguem algumas das telas logo abaixo:
+The project prototype was built on the FIGMA platform and by [@TiagoLuchtenberg](https://www.instagram.com/tiagoluchtenberg/) and it was beautiful!
+here are some of the screens below:
 
 <br />
 
@@ -62,14 +62,14 @@ seguem algumas das telas logo abaixo:
 <br />
 
 
-## :wrench: Colocando o projeto para rodar
+## :wrench: Putting the project to run
 <br />
 
-Para colocar o projeto para rodar, basta seguir o passo a passo fornecido logo abaixo:
+To put the project to run, just follow the step-by-step provided below:
 
-Com o Node e o Expo instalados em sua máquina e um emulador ou o Expo Go no dispositivo físico, baixe ou clone este repositório e siga o passo a passo descrito abaixo.
+With Node and Expo installed on your machine and an emulator or Expo Go on the physical device, download or clone this repository and follow the step by step described below.
 
-Cadastre o aplicativo no Discord para conseguir acesso ao serviço de autenticação, colocando o redirect como https://auth.expo.io/@<seu usuário no expo>/gameplay e marcando, na aba "OAuth2", as 4 primeiras opções para o escopo, definindo essas configurações também em um arquivo .env no projeto (siga o exemplo do arquivo ".env.example", retirando o '.exemple' depois).
+Register the application on Discord to gain access to the authentication service, placing the redirect as https://auth.expo.io/@<your user in expo>/gameplay and checking, in the "OAuth2" tab, the first 4 options for the scope, defining these settings also in an .env file in the project (follow the example of the file ".env.example", removing the '.exemple' afterwards).
 
 ```
 REDIRECT_URI=
@@ -82,13 +82,13 @@ CDN_IMAGE=
 
 ## :memo: License
 
-Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
+This project is under the [MIT license](LICENSE) for more details.
 <br />
 <br />
 
 ## :wave: Social
 
-Siga @Jhonata nas redes :wink:
+Follow @Jhonata on the networks :wink:
 <br />
 
 - [LinkedIn](https://www.linkedin.com/in/jhonata-augusto-2301541b5/)
